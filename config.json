@@ -14,18 +14,18 @@
         "application" : true,
         "birthday" : true,
         "gaming" : true,
-        "customcommands" : true,
+        "customcommands" : false,
         "report" : true
     },
     "categories": {
-        "anime": true,
+        "anime": false,
         "basic": true,
         "utility": true,
         "moderation": true,
         "core" :true,
         "lavalink": true,
         "fun": true,
-        "distube": true,
+        "distube": false,
         "setups": true
     },
      "lavalink": {
