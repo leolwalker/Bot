@@ -153,7 +153,7 @@ module.exports = {
                     });
 
                     pages.push({
-                        title: `📁 ${category.charAt(0).toUpperCase() + category.slice(1)} Commands`,
+                        title: `ⓘ ${category.charAt(0).toUpperCase() + category.slice(1)} Commands`,
                         description: [
                             `**Total Commands:** ${totalNoOfCommands}`,
                             `**Master Commands:** ${commands.length}`,
